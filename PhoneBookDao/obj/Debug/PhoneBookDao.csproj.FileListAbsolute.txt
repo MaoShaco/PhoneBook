@@ -1,0 +1,7 @@
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookDao\bin\Debug\PhoneBookDao.dll
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookDao\bin\Debug\PhoneBookDao.pdb
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookDao\bin\Debug\Npgsql.dll
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookDao\bin\Debug\Npgsql.xml
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookDao\obj\Debug\PhoneBookDao.csprojResolveAssemblyReference.cache
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookDao\obj\Debug\PhoneBookDao.dll
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookDao\obj\Debug\PhoneBookDao.pdb

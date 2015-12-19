@@ -1,0 +1,15 @@
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\bin\Debug\PhoneBook.exe.config
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\bin\Debug\PhoneBook.exe
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\bin\Debug\PhoneBook.pdb
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\bin\Debug\PhoneBookServices.dll
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\bin\Debug\PhoneBookDao.dll
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\bin\Debug\Npgsql.dll
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\bin\Debug\PhoneBookServices.pdb
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\bin\Debug\PhoneBookDao.pdb
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\bin\Debug\Npgsql.xml
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\obj\Debug\PhoneBook.exe
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\obj\Debug\PhoneBook.pdb
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBook\obj\Debug\PhoneBook.PhoneBook.resources

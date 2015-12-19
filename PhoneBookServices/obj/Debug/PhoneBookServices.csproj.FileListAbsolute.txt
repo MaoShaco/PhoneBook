@@ -1,0 +1,9 @@
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookServices\bin\Debug\PhoneBookServices.dll
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookServices\bin\Debug\PhoneBookServices.pdb
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookServices\bin\Debug\PhoneBookDao.dll
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookServices\bin\Debug\Npgsql.dll
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookServices\bin\Debug\PhoneBookDao.pdb
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookServices\bin\Debug\Npgsql.xml
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookServices\obj\Debug\PhoneBookServices.csprojResolveAssemblyReference.cache
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookServices\obj\Debug\PhoneBookServices.dll
+Q:\Programming\Projects\Visual Studio\PhoneBookSolution\PhoneBookServices\obj\Debug\PhoneBookServices.pdb
